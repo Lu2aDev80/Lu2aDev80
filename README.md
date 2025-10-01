@@ -6,19 +6,20 @@
   <img src="https://img.shields.io/badge/Role-Azubi%20Anwendungsentwicklung-ff69b4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development-ff69b4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Theme-Pink%20%26%20Modern-ff69b4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-2025--10--01%2013:15:33%20UTC-ff69b4?style=flat-square"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 Tech Stack</h2>
+  <h2>⚡ Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,nodejs,mysql,git,figma,vscode" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>💻 Skills & Technologies</h2>
+  <h2>⚙️ Skills & Technologies</h2>
   
   <table>
     <tr>
@@ -44,20 +45,22 @@
 ---
 
 <div align="center">
-  <h2>📚 Learning Progress</h2>
+  <h2>📖 Learning Progress</h2>
   
   <table>
     <tr>
       <td align="center" width="50%">
         <img src="https://skillicons.dev/icons?i=react" width="60" /><br/>
         <b>React</b><br/>
-        <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=150&color=ff69b4&suffix=%" />
+        <img src="https://img.shields.io/badge/Progress-75%25-ff69b4?style=for-the-badge" />
+        <br/>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%
         <br/><sub>Hooks, Components, State Management</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://skillicons.dev/icons?i=ts" width="60" /><br/>
         <b>TypeScript</b><br/>
-        <img src="https://progress-bar.dev/60/?scale=100&title=Progress&width=150&color=ff69b4&suffix=%" />
+        <img src="https://img.shields.io/badge/Progress-60%25-ff69b4?style=for-the-badge" />
+        <br/>▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%
         <br/><sub>Types, Interfaces, Advanced Features</sub>
       </td>
     </tr>
@@ -67,16 +70,18 @@
 ---
 
 <div align="center">
-  <h2>🎯 About Me</h2>
+  <h2>👤 About Lu2aDev80</h2>
   
   <div align="left" style="display: inline-block;">
     <ul>
-      <li>💼 <b>Ausbildung:</b> Fachinformatik Anwendungsentwicklung</li>
+      <li>⚡ <b>GitHub:</b> @Lu2aDev80</li>
+      <li>🎓 <b>Ausbildung:</b> Fachinformatik Anwendungsentwicklung</li>
       <li>🌐 <b>Fokus:</b> Full Stack Webentwicklung</li>
-      <li>🎨 <b>Frontend:</b> React, TypeScript, Modern CSS</li>
+      <li>⚛️ <b>Frontend:</b> React, TypeScript, Modern CSS</li>
       <li>⚙️ <b>Backend:</b> PHP, Laravel, Node.js</li>
       <li>🛠️ <b>Tools:</b> VS Code, Git, Figma</li>
-      <li>📈 <b>Ziel:</b> Moderne Webanwendungen entwickeln</li>
+      <li>🎯 <b>Ziel:</b> Moderne Webanwendungen entwickeln</li>
+      <li>📅 <b>Updated:</b> 2025-10-01 13:15:33 UTC</li>
     </ul>
   </div>
 </div>
@@ -84,24 +89,14 @@
 ---
 
 <div align="center">
-  <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lu2aDev80&show_icons=true&theme=radical&border_color=ff69b4&title_color=ff69b4&text_color=f0f0f0&icon_color=ff69b4&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <h2>📫 Connect With Me</h2>
+  <h2>🔗 Connect With Me</h2>
   
-  <a href="mailto:dein.email@example.com">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dein-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Lu2aDev80">
+    <img src="https://img.shields.io/badge/GitHub-Lu2aDev80-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <sub>Made with 💖 by Lu2aDev80 | Azubi Fachinformatik AE</sub>
+  <sub>Made with ❤️ by Lu2aDev80 | Azubi Fachinformatik AE | Updated: 2025-10-01</sub>
 </div>
